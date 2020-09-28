@@ -2,7 +2,7 @@
 My name is Ashank Bharati. I'm a Software Developer.</br> I am based in Bangalore, India, working as a Mobile Developer @ [Nuclei](https://gonuclei.com/).</br> 
 I blog @ [Nuclei Technology Blog](https://medium.com/nuclei-technology-blog). </br>
 Apart from that I am a singer, a growing musician, a cook, a biker, an adventurer, a volunteer and an avid yoga practitioner.</br>
-You can find me on [Linkedin](2), [Twitter](1), or [Instagram](3) for more details and updates on what I do.
+You can find me on [Linkedin](2), [Instagram](3), or [Twitter](1) for more details and updates on what I do.
 
 <!-- Links to your social media accounts -->
 [1]: https://twitter.com/ashankbharati
