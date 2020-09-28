@@ -1,4 +1,13 @@
 ### Hi there 👋
+My name is Ashank Bharati. I'm a Software Developer.</br> I am based in Bangalore, India currently working as a Mobile Developer @ [Nuclei](https://gonuclei.com/).</br> 
+Apart from that I am a singer, a growing musician, a cook, a biker, an adventurer, a volunteer and an avid yoga practitioner.</br>
+You can find me on [Linkedin](2), [Twitter](1), [Instagram](3)
+
+<!-- Links to your social media accounts -->
+[1]: https://twitter.com/ashankbharati
+[2]: https://www.linkedin.com/in/ashank-bharati-497989127
+[3]: https://www.instagram.com/mr_bharati_/
+
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ashank96&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashank96&layout=compact&hide=html,swift,php&langs_count=15&exclude_repo=ReverseCodingDemo,geekyStack,reverseCodingLanding,gitNew,newGitTest,imad-2016-app)](https://github.com/anuraghazra/github-readme-stats)
 <!--
